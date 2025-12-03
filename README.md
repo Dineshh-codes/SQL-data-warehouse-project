@@ -8,6 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+
 [![Project diagram](docs/Project_diagram.png)](https://github.com/Dineshh-codes/SQL-data-warehouse-project/blob/280f4fe7de76acf7637d0f35b5a65a0a4d86d1b9/docs/Project%20diagram.png)
 
 
